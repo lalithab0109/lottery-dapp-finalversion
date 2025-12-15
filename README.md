@@ -1,6 +1,6 @@
 # Decentralized Lottery DApp
 
-A fully decentralized lottery application built on Ethereum. It includes a Solidity smart contract deployed on the Sepolia testnet and a frontend built with React, HTML, CSS and JavaScript using ethers.js. Users can connect their MetaMask wallet, buy lottery tickets, and the contract owner draws a winner, and the owner automatically recieves the owner fee for conducting the lottery and the remaining prize pool is automatically transfered to the winner— all enforced by immutable smart contract logic.
+A fully decentralized lottery application built on Ethereum. It includes a Solidity smart contract deployed on the Sepolia testnet and a frontend built with React, HTML, CSS and JavaScript using ethers.js. Users can connect their MetaMask wallet, buy lottery tickets, and the contract owner draws a winner, and the owner automatically receives the owner fee for conducting the lottery and the remaining prize pool is automatically transfered to the winner— all enforced by immutable smart contract logic.
 
 ---
 
