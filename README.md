@@ -96,10 +96,10 @@ A react application was created using **Vite** and the neccessary dependencies w
 
 1. Users connect their **MetaMask wallet** to the application.
 2. Users purchase lottery tickets using **ETH**.
-   -players can purchase tickets only if the current player count is less than the maximum number of players allowed to join the game(5).
+   - players can purchase tickets only if the current player count is less than the maximum number of players allowed to join the game(5).
 3. The ETH is **securely stored in the smart contract** on the blockchain.
 4. Once the required conditions are met, the **contract owner selects a winner**.
-   -the contract owner can select a winner only the player count is greater than the minimum players required(3).
+   - the contract owner can select a winner only the player count is greater than the minimum players required(3).
 5. The smart contract **automatically transfers the contract balance-(contract balance\*owner fee percent)** to the selected winner.
    and the owner recieves **contract balance\*owner fee percent** automatically.
 
