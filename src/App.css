@@ -12,15 +12,24 @@
 }
 
 body {
-  background-color: var(--bg-color);
-  color: var(--text-main);
-  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
-  display: flex;
-  justify-content: center;
   min-height: 100vh;
+
+  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--text-main);
+
+  background:
+    linear-gradient(
+      rgba(15, 17, 26, 0.60),
+      rgba(15, 17, 26, 0.75)
+    ),
+    url("beam.webp") no-repeat center 50% fixed;
+
+  background-size: cover;
+  align-items: bottom;
 }
+
 
 .lottery-container {
   background-color: var(--card-bg);
@@ -50,9 +59,10 @@ h2 {
 }
 
 p {
-  color: var(--text-muted);
+  color: whitesmoke;
   line-height: 1.6;
   margin-bottom: 1rem;
+  
 }
 
 strong {
