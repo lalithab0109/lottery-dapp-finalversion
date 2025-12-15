@@ -74,14 +74,14 @@ The smart contract handles:
 ## Additional featres
 
 1. Solidity features:
-   -owner fee percent
-   -minimum players required for owner to pick winner
-   -maximum number of players who can join the game.
+   - owner fee percent
+   - minimum players required for owner to pick winner
+   - maximum number of players who can join the game
 2. JavaScript/UX features:
-   -display of ticket price(from the smart contract)
-   -display of minimum and maximum number of players
-   -display of players count and number of slots left in the game
-   -display of owner fee
+   - display of ticket price(from the smart contract)
+   - display of minimum and maximum number of players
+   - display of players count and number of slots left in the game
+   - display of owner fee
 3. UI Enhancement
 
 ---
